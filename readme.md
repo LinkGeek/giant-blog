@@ -40,4 +40,6 @@
 ## 致谢
 
 [Laravel学院](http://laravelacademy.org/)
-[白俊遥博客](https://baijunyao.com/)
+[Bootstrap中文网](http://www.bootcss.com/)
+[白俊遥博客](https://baijunyao.com/)    
+[layer](http://layer.layui.com/)
